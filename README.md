@@ -23,7 +23,7 @@ Configure Roles
   - Supreme Admin
 
 <p>
-<img src="https://i.imgur.com/BmgJh4a.png" height="40%" width="40%" alt="X"/>
+<img src="https://i.imgur.com/BmgJh4a.png" height="80%" width="80%" alt="X"/>
 </p>
 
 Configure Departments
@@ -31,7 +31,7 @@ Configure Departments
   - System Administrators
 
 <p>
-<img src="https://i.imgur.com/okRF9jy.png" height="40%" width="40%" alt="X"/>
+<img src="https://i.imgur.com/okRF9jy.png" height="80%" width="80%" alt="X"/>
 </p>
 
 Configure Teams
@@ -40,7 +40,7 @@ Configure Teams
     - Level II Support
 
 <p>
-<img src="https://i.imgur.com/rHvZ1uN.png" height="40%" width="40%" alt="X"/>
+<img src="https://i.imgur.com/rHvZ1uN.png" height="80%" width="80%" alt="X"/>
 </p>
 
 Allow anyone to create tickets
@@ -48,7 +48,7 @@ Allow anyone to create tickets
   - Registration Required: Require registration and login to create tickets (leave unchecked) 
 
 <p>
-<img src="https://i.imgur.com/CeYalJI.png" height="40%" width="40%" alt="X"/>
+<img src="https://i.imgur.com/CeYalJI.png" height="80%" width="80%" alt="X"/>
 </p>
 
 Configure Agents (workers)
@@ -57,7 +57,7 @@ Configure Agents (workers)
     - John
 
 <p>
-<img src="https://i.imgur.com/IqTEZIw.png" height="40%" width="40%" alt="X"/>
+<img src="https://i.imgur.com/IqTEZIw.png" height="80%" width="80%" alt="X"/>
 </p>
 
 Configure Users (customers)
@@ -66,7 +66,7 @@ Configure Users (customers)
       - Ken
 
 <p>
-<img src="https://i.imgur.com/gFAmlC1.png" height="40%" width="40%" alt="X"/>
+<img src="https://i.imgur.com/gFAmlC1.png" height="80%" width="80%" alt="X"/>
 </p>
 
 Configure SLA
@@ -76,7 +76,7 @@ Configure SLA
      -  Sev-C (8 hours, business hours)
 
 <p>
-<img src="https://i.imgur.com/uunBXn8.png" height="40%" width="40%" alt="X"/>
+<img src="https://i.imgur.com/uunBXn8.png" height="80%" width="80%" alt="X"/>
 </p>
 
 Configure Help Topics
@@ -87,7 +87,7 @@ Configure Help Topics
     - Password Reset
 
 <p>
-<img src="https://i.imgur.com/GBrmNUp.png" height="40%" width="40%" alt="X"/>
+<img src="https://i.imgur.com/GBrmNUp.png" height="80%" width="80%" alt="X"/>
 </p>
 
 
